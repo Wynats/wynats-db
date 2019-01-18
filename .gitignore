@@ -25,7 +25,6 @@
 /.nb-gradle/
 
 ### MacOS files ###
-._*
 ### VS ###
 /.mvn/
 /.vscode/
